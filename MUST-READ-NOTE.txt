@@ -1,0 +1,1 @@
+FOR LAST ANS : UPDATED UI includes 1.  new article section on header and body. linked them and styling change done.  2. contact section : added website links. 3. made mobile responsive. 4. response set on question form . 
